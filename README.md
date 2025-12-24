@@ -54,6 +54,11 @@ novadrive-dbt/
 
 O **Airflow** está configurado com DAGs para carregar dados do PostgreSQL para Snowflake diariamente.
 
+**Link planilha de analises:https://lookerstudio.google.com/reporting/4bcadbf5-69b0-4909-95c4-540b38244669**
+
+<img width="789" height="576" alt="Captura de Tela (5)" src="https://github.com/user-attachments/assets/67cd92d6-d87a-4c33-959f-d2b2d7dc53ea" />
+
+
 ---
 
 ## ⚙️ Como rodar o projeto
